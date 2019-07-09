@@ -24,7 +24,7 @@ On the repo, just click on the green button at the right to get the zip file of 
 * Bénin Langues --> [@BeninLangues](https://twitter.com/BeninLangues)
 
 ## Some beninese TV shows in Fon
-[TVC news in Fon](https://www.youtube.com/results?search_query=tvc+benin+Fon)
+* [TVC news in Fon](https://www.youtube.com/results?search_query=tvc+benin+Fon)
 
 ## Online resources
 * The Fon Wikipedia project: [Homepage](https://bit.ly/2LaQqdD)
