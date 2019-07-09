@@ -1,5 +1,7 @@
 # Fon resources
-Here I share some free fon resources to learn, read and write Fon language
+[Fon](https://en.wikipedia.org/wiki/Fon_language) is spoken by millions of people mostly in Bénin and in some parts of Togo and Nigeria.
+
+Here I will regularly share some free resources to learn, read and write Fon language, my language!
 
 ## How to download
 On the repo, just click on the green button at the right to get the zip file of the resources
@@ -12,11 +14,17 @@ On the repo, just click on the green button at the right to get the zip file of 
 * Clavier des langues Africaines is another keyboard for mobile phones
 [Link to download](https://bit.ly/329e0wI)
 
+* For wiki projects, a special keyboard has been developed to write most of african languages including Fon:
+[Fon keyboard on Wiki projects](https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/fon-tilde)
+
 ## Some Twitter accounts that promote Fon languages
 * fɔ́nnù voices --> [@FonnuVoices](https://twitter.com/FonnuVoices)
 * Idemi Africa --> [@IdemiAfrica](https://twitter.com/IdemiAfrica)
 * Fongbe World --> [@FongbeWorld](https://twitter.com/FongbeWorld)
 * Bénin Langues --> [@BeninLangues](https://twitter.com/BeninLangues)
+
+## Some beninese TV shows in Fon
+[TVC news in Fon](https://www.youtube.com/results?search_query=tvc+benin+Fon)
 
 ## Online resources
 * The Fon Wikipedia project: [Homepage](https://bit.ly/2LaQqdD)
