@@ -7,7 +7,7 @@ Here I will regularly share some free resources to learn, read and write Fon lan
 On the repo, just click on the green button at the right to get the zip file of the resources
 
 
-## Keyboards to write Fon on mobile devices:
+## Keyboards to write Fon on computers and mobile devices:
 * Gboard, Google keyboard supports Fon with auto correction and auto suggestions. You just need to configure Fon on it.
 [Link to downlaod if not yet on your phone](https://bit.ly/2LGj1ah)
 
